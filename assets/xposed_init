@@ -1,0 +1,5 @@
+de.robv.android.xposed.mods.tutorial.Tutorial
+de.robv.android.xposed.mods.tutorial.XposedHook
+de.robv.android.xposed.mods.tutorial.XposedMemory
+de.robv.android.xposed.mods.tutorial.XposedCalendar
+de.robv.android.xposed.mods.tutorial.XposedLocation
